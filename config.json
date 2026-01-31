@@ -1,6 +1,6 @@
 {
-    "latestVersionCode": 11709,
+    "latestVersionCode": 11711,
     "minVersionCode": 11704,
     "isForceUpdate": false,
-    "changelog": "Добавлен показ технических работ на стороне сервера"
+    "changelog": "Исправлен расчет эксплойта"
 }
